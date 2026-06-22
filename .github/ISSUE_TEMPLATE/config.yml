@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 模板说明与协作规范
+    url: https://github.com/switchbot-rd/.github/blob/main/README.md
+    about: 模板用法、标签含义、如何在自己仓覆盖默认模板。
