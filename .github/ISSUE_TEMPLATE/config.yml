@@ -1,5 +1,8 @@
 blank_issues_enabled: true
 contact_links:
+  - name: 🔒 报告安全漏洞（请勿开公开 issue）
+    url: https://github.com/switchbot-rd/.github/blob/main/SECURITY.md
+    about: 凭据泄露 / 越权 / 可被利用的缺陷：请在受影响的那个仓走私有渠道上报，勿开公开 issue（公开会在修复前暴露）。
   - name: 模板说明与协作规范
     url: https://github.com/switchbot-rd/.github/blob/main/README.md
     about: 模板用法、标签含义、如何在自己仓覆盖默认模板。
